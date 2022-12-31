@@ -1,0 +1,3 @@
+D:\Code\Snake\x64\Release\Snake.exe
+D:\Code\Snake\x64\Release\Snake.exe.lastcodeanalysissucceeded
+D:\Code\Snake\x64\Release\NativeCodeAnalysis.read.1.tlog
