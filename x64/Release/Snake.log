@@ -1,8 +1,0 @@
-﻿  Snake.cpp
-  正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  Snake.vcxproj -> D:\Code\Snake\x64\Release\Snake.exe
-D:\Code\Snake\Snake.cpp(24): warning C26495: 未初始化变量 Food::fdxy。始终初始化成员变量(type.6)。
-D:\Code\Snake\Snake.cpp(74): warning C6031: 返回值被忽略: “getchar”。
